@@ -1,6 +1,6 @@
 
 
-DNN's for Function Approximation
+Function Approximation with DNN's
 =====
 
 For context, see `latex/main.pdf` (semester paper HS18 at ETH, under Prof. Dr. H. Bölcskei, supervised by Dmytro Perekrestenko).
