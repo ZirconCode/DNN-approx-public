@@ -1,0 +1,58 @@
+
+
+TODO:
+
+- see TODO's in code comments
+
+- Segment code into classes and files... ex. the functions, dataloader, etc.
+
+- lots of redundancy
+
+- Pass arguments vie cmd line parmaeters
+
+- # TODO LRSched factor the LR decay
+
+- batch the function dataset
+
+- split setup better into __main__ and pool workers
+
+- implement convolutional structures
+
+- set worker number with os.cpu_count()?
+
+- num_workers for dataloader != 0 ?
+
+- cleanup logging and prints a bit
+
+- not all functions fully defined
+	- fix multi variable polynome to be smaller and interesting on domain
+
+- Avoid blowup of weights when not clamping by error
+
+- build network with ModuleList / nn.sequential 
+
+- https://docs.python.org/2/library/pickle.html#module-pickle
+
+- freeze version numbers of packages
+
+
+
+Stuff:
+
+https://arxiv.org/pdf/1505.00853.pdf
+for leaky and rrelus
+
+http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf
+for strength of relus in depth?
+
+https://papers.nips.cc/paper/3048-greedy-layer-wise-training-of-deep-networks.pdf
+greedy layer wise autoencoder deep belief networks
+
+https://arxiv.org/abs/1502.03167
+Also helps strongly?
+
+http://www.cs.toronto.edu/~fritz/absps/dropout.pdf
+probably not relevant?
+
+
+
